@@ -1,0 +1,12 @@
+D:\Study.HUSC\visual studio\Timerun\Timerun\bin\Debug\Timerun.exe.config
+D:\Study.HUSC\visual studio\Timerun\Timerun\bin\Debug\Timerun.exe
+D:\Study.HUSC\visual studio\Timerun\Timerun\bin\Debug\Timerun.pdb
+D:\Study.HUSC\visual studio\Timerun\Timerun\obj\Debug\Timerun.csproj.AssemblyReference.cache
+D:\Study.HUSC\visual studio\Timerun\Timerun\obj\Debug\Timerun.csproj.SuggestedBindingRedirects.cache
+D:\Study.HUSC\visual studio\Timerun\Timerun\obj\Debug\Timerun.Properties.Resources.resources
+D:\Study.HUSC\visual studio\Timerun\Timerun\obj\Debug\Timerun.csproj.GenerateResource.cache
+D:\Study.HUSC\visual studio\Timerun\Timerun\obj\Debug\Timerun.csproj.CoreCompileInputs.cache
+D:\Study.HUSC\visual studio\Timerun\Timerun\obj\Debug\Timerun.exe
+D:\Study.HUSC\visual studio\Timerun\Timerun\obj\Debug\Timerun.pdb
+D:\Study.HUSC\visual studio\Timerun\Timerun\obj\Debug\Timerun.SettingForm.resources
+D:\Study.HUSC\visual studio\Timerun\Timerun\obj\Debug\Timerun.DongHo.resources

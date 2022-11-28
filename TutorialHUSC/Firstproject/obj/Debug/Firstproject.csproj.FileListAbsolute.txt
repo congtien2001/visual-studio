@@ -1,0 +1,8 @@
+D:\Study.HUSC\visual studio\TutorialHUSC\Firstproject\bin\Debug\Firstproject.exe.config
+D:\Study.HUSC\visual studio\TutorialHUSC\Firstproject\bin\Debug\Firstproject.exe
+D:\Study.HUSC\visual studio\TutorialHUSC\Firstproject\bin\Debug\Firstproject.pdb
+D:\Study.HUSC\visual studio\TutorialHUSC\Firstproject\obj\Debug\Firstproject.csproj.AssemblyReference.cache
+D:\Study.HUSC\visual studio\TutorialHUSC\Firstproject\obj\Debug\Firstproject.csproj.SuggestedBindingRedirects.cache
+D:\Study.HUSC\visual studio\TutorialHUSC\Firstproject\obj\Debug\Firstproject.csproj.CoreCompileInputs.cache
+D:\Study.HUSC\visual studio\TutorialHUSC\Firstproject\obj\Debug\Firstproject.exe
+D:\Study.HUSC\visual studio\TutorialHUSC\Firstproject\obj\Debug\Firstproject.pdb

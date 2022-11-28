@@ -1,0 +1,11 @@
+D:\Study.HUSC\visual studio\Time\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Study.HUSC\visual studio\Time\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Study.HUSC\visual studio\Time\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Study.HUSC\visual studio\Time\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Study.HUSC\visual studio\Time\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Study.HUSC\visual studio\Time\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Study.HUSC\visual studio\Time\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Study.HUSC\visual studio\Time\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Study.HUSC\visual studio\Time\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Study.HUSC\visual studio\Time\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Study.HUSC\visual studio\Time\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

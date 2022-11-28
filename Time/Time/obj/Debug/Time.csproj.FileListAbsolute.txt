@@ -1,0 +1,12 @@
+D:\Study.HUSC\visual studio\Time\Time\bin\Debug\Time.exe.config
+D:\Study.HUSC\visual studio\Time\Time\bin\Debug\Time.exe
+D:\Study.HUSC\visual studio\Time\Time\bin\Debug\Time.pdb
+D:\Study.HUSC\visual studio\Time\Time\obj\Debug\Time.csproj.AssemblyReference.cache
+D:\Study.HUSC\visual studio\Time\Time\obj\Debug\Time.csproj.SuggestedBindingRedirects.cache
+D:\Study.HUSC\visual studio\Time\Time\obj\Debug\Time.Form1.resources
+D:\Study.HUSC\visual studio\Time\Time\obj\Debug\Time.Properties.Resources.resources
+D:\Study.HUSC\visual studio\Time\Time\obj\Debug\Time.csproj.GenerateResource.cache
+D:\Study.HUSC\visual studio\Time\Time\obj\Debug\Time.csproj.CoreCompileInputs.cache
+D:\Study.HUSC\visual studio\Time\Time\obj\Debug\Time.exe
+D:\Study.HUSC\visual studio\Time\Time\obj\Debug\Time.pdb
+D:\Study.HUSC\visual studio\Time\Time\obj\Debug\Time.SetMinute.resources
